@@ -1,10 +1,5 @@
 # 环境
 
-<<<<<<< HEAD
-=======
-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
-
->>>>>>> b7090b2 (Add a number classfier)
 1. OpenCV
 2. fmt  (格式化字符串) [fmt](https://fmt.dev/latest/index.html)
 3. Eigen3 (矩阵) 
